@@ -1,4 +1,5 @@
 Show how to use node-hid with RawHID Arduino device
+
 Documentation for https://github.com/node-hid/node-hid/issues/416
 
 To use:
