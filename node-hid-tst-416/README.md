@@ -11,6 +11,10 @@ To use:
 - Open Arduino Serial Monitor to see data received by device
 - Run `node-hid` script with `npm run start`
 
+Tested on:
+- MacOS 11.1 x64 w/ node@14.5, node-hid@2.2.1
+- Windows 10 Pro x64 w/ node@14.5, node-hid@2.2.1
+
 
 The "HIDProjectRawHID" Arduino sketch creates a RawHID device with the
 following properties:
